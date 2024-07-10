@@ -1,0 +1,11 @@
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\bin\Debug\Yeni Metin Belgesi.txt
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\bin\Debug\AsenkronMultiThread.exe.config
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\bin\Debug\AsenkronMultiThread.exe
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\bin\Debug\AsenkronMultiThread.pdb
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\obj\Debug\AsenkronMultiThread.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\obj\Debug\AsenkronMultiThread.Form1.resources
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\obj\Debug\AsenkronMultiThread.Properties.Resources.resources
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\obj\Debug\AsenkronMultiThread.csproj.GenerateResource.cache
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\obj\Debug\AsenkronMultiThread.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\obj\Debug\AsenkronMultiThread.exe
+C:\Users\sahin\source\repos\AsenkronMultiThread\AsenkronMultiThread\obj\Debug\AsenkronMultiThread.pdb
